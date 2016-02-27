@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidProject\Android\HomeSecurity\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="D:\AndroidProject\Android\HomeSecurity\app\build\intermediates\pre-dexed\debug\classes-2fb237c1bd0a2b50ef639ca85bcf3b301314b01d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProject\Android\HomeSecurity\app\build\intermediates\exploded-aar\com.pushbots\pushbots-lib\2.0.13\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="635a77d3f219ad345f4b82dba86e4aabe4f35b94">
+        <dex dex="D:\AndroidProject\Android\HomeSecurity\app\build\intermediates\pre-dexed\debug\classes-18ebf66f9cc5b052e5e42ee73fa49141ab51b2e1.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProject\Android\HomeSecurity\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\AndroidProject\Android\HomeSecurity\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-9dd697b62e3caa0c5ecc1299ade3c64ea67c3613.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProject\Android\HomeSecurity\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\AndroidProject\Android\HomeSecurity\app\build\intermediates\pre-dexed\debug\classes-2ef2056115d1ac1b89db27fdc548e469a8462598.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProject\Android\HomeSecurity\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\AndroidProject\Android\HomeSecurity\app\build\intermediates\pre-dexed\debug\classes-3e412403060592842aa3980eaed7eb7f30949eae.jar" />
+    </item>
+    <item
+        jar="D:\Semester 7\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\AndroidProject\Android\HomeSecurity\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-cd9579041527112dc80d95b33bf33f6f418f57a8.jar" />
+    </item>
+
+</items>
